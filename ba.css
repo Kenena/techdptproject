@@ -1,0 +1,47 @@
+a {
+    text-decoration: none;
+    font-size: x-large;
+    color: cadetblue;
+    padding: 10px;
+}
+
+a:hover{
+    color: black;
+    background:cadetblue ;
+    border-radius: 30px;
+
+}
+
+.dash{
+    background-color: navy;
+    margin-left: 400px;
+    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    
+    
+}
+
+body{
+    background-color: silver;
+}
+
+.cy{
+     text-decoration: none;
+     font-size: 20px;
+    color: black;
+    padding: none;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.in{
+    position: relative;
+    text-align: center;
+    color: black;
+}
